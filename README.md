@@ -12,10 +12,6 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelhardyy&hide=jupyter%20notebook,html&langs_count=10&layout=compact" />
-</a>
-
 
 ## 📚 I am currently learning: 
 
