@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikesuciato4@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/michael-sutjiato/)
 
-- 👨‍🎓 Information Technology Undergraduate Student at [UTS](https://www.uts.edu.au).
+ 👨‍🎓 Graduate Information Technology Student at [UTS](https://www.uts.edu.au).
 
 ## ⚡ Technologies and Skills:  
 
